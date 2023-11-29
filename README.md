@@ -18,8 +18,7 @@ I’ve mainly contributed in utilizing UIKit, Vision, and CreateML. I’ve also 
 Technologies used: 
 Vision, UIKit, Create ML, Core Data, AVFoundation
 
-Test Flight Link:  
-[bit.ly/tiatiApp](bit.ly/tiatiApp)
+[Test Flight Link](https://bit.ly/tiatiApp)
 
 ## Bobori
 <p float="left">
@@ -35,8 +34,8 @@ I mainly worked on the logics and helped with the front end wherever possible. S
 Technologies used: 
 EventKit, Core Data, SwiftUI, AVFoundation
 
-GitHub Link:  
-github.com/leoharnadi/Bobori
+[GitHub Link](https://github.com/leoharnadi/Bobori)
+
 
 ## MRTJ: Live Update
 <p float="left">
@@ -53,8 +52,7 @@ I’ve mainly contributed to the use of Firebase for the CRUD of the app. I’ve
 Technologies used: 
 Firebase, SwiftUI, Core Location
 
-GitHub Link:  
-github.com/leoharnadi/MRTJ-LiveUpdate
+[GitHub Link](https://github.com/leoharnadi/MRTJ-LiveUpdate)
 
 ## Missing
 <p float="left">
@@ -75,8 +73,38 @@ I’ve mainly contributed in managing the overall structure of the code, the han
 Technologies used: 
 SpriteKit, GameplayKit, AVFoundation, & UIKit.
 
-GitHub Link:  
-github.com/leoharnadi/Missing
+[GitHub Link](https://github.com/leoharnadi/Missing)
 
-Test Flight Link:
-bit.ly/MISSINGGame
+[Test Flight Link](https://bit.ly/MISSINGGame)
+
+## Eggsplorer
+<p float="left">
+<img width="200" alt="Screenshot 2023-05-23 at 16 32 17" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/199f1ad2-430b-4e7d-8503-c21cefc96871">
+<img width="200" alt="Screenshot 2023-05-23 at 16 32 35" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/f66d7b1b-2e9a-4393-a30f-51f1f407f08f">
+<img width="200" alt="Screenshot 2023-05-23 at 16 32 43" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/78468809-d62b-4a34-a8f0-c2351b91ae96">
+</p>
+
+Eggsplorer is one of the 350 winners of Swift Student Challenge 2023. It is an app that allows the user to choose a combination of two  ingredients to find six different egg recipes which are personal to me.
+
+Excluding AVFoundation, I challenged myself to only use SwiftUI for this project, where Observable Object and State/Binding were used extensively for the main mechanics of the app.
+
+Technologies used: 
+SwiftUI & AVFoundation
+
+[GitHub Link](https://github.com/leoharnadi/Eggsplorer)
+
+## Squatty Bird
+<p float="left">
+  <img width="200" alt="Screenshot 2023-05-23 at 16 32 17" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/18e57a5a-3f40-4104-a7b5-08cc649b7bc4">
+  <img width="200" alt="Screenshot 2023-05-23 at 16 32 35" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/a3957d11-e5bb-4253-8dbc-81cf1926d759">
+  <img width="200" alt="Screenshot 2023-05-23 at 16 32 43" src="https://github.com/leoharnadi/Portfolio-iOS/assets/66004054/d4735d2a-c43e-4c17-968d-b26187c47aa5">
+</p>
+
+Squatty Bird is a solo iOS-based game that utilizes Augmented Reality technology as a Flappy Bird parody. In this game, players squat (move the phone vertically) to dodge incoming pipes.
+
+The pipes are spawned in front of the player initially and gradually moves towards them. The interval between pipe spawning and the space between each pipes get smaller periodically.
+
+Technologies used: 
+ARKit, SceneKit, AVFoundation and Core Haptics
+
+[GitHub Link](https://github.com/leoharnadi/SquattyBird)
